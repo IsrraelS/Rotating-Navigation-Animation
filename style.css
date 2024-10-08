@@ -75,7 +75,7 @@ body {
     transition-delay: 0.3s;
 }
 
-.nav {
+nav {
     position: fixed;
     bottom: 40px;
     left: 0;
